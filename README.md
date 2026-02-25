@@ -25,7 +25,7 @@ The final output is an interactive Power BI dashboard that supports data-driven 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](PROJECT%20WALMART%20SARAH_page-0001.jpg)
 
 ---
 
